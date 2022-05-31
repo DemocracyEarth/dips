@@ -1,2 +1,0 @@
-# dips
-Democracy Improvement Proposals
